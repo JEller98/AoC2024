@@ -1,5 +1,6 @@
 /***
- * This file contains the solution for the first challenge from Advent of Code 2024.
+ * This file contains the solution for the first challenge from Advent of Code 2024, which is
+ * calculating the total distance between two groups of numbers.
  * It reads in data from a file, splits the data into two separate arrays, sorts the arrays
  * and finds the difference between the two values of the arrays at a given index, then returns
  * the total difference between the two.
